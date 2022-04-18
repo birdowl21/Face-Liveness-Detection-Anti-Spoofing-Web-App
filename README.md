@@ -1,1 +1,0 @@
-# Face-Liveness-Detection-Anti-Spoofing-Web-App
