@@ -7,15 +7,13 @@
 
 </center>
 
-<center>
-    <h2> Inspiration </h2>
+## Inspiration
 
 https://github.com/jomariya23156/face-recognition-with-liveness-web-login
 
 I would highly suggest all of you to take a look at this wonderful project which served as the inspiration for my project.jomariya23156 has also beautifully incorporated face-recognition into his app which has been omitted in my project.
-</center>
-<center>
-	<h2> Drawback </h2>
+
+# Drawback
 	
 The drawback of the above mentioned project is that although it claims to be a web app it cannot be used in a server-client scenario as it lacks webrtc features.
 
@@ -24,7 +22,7 @@ https://blog.streamlit.io/how-to-build-the-streamlit-webrtc-component/
 
 </center>
 <hr>
-<center>
+
 ## ✨ Features
 
 - calculates real and fake ratios
@@ -63,14 +61,14 @@ cd iiitdmj-gpa
 pip install -r requirements.txt
 ```
  
-### And you are good to go
+### Step 5: And you are good to go
 ```sh
 streamlit run app.py
 ```
 You should now have the application running and accessible at http://localhost:8501.
 
 
-### Step 5: Deploy and enjoy!
+### Step 6 (Optional): Deploy and enjoy!
 
 You could deploy the app to cloud platforms such as Streamlit-sharing and Heroku.
 
@@ -82,7 +80,7 @@ If you are facing issues with deploying the app remotely, please refer to this l
 https://docs.streamlit.io/knowledge-base/deploy/remote-start
 
 
-### Sample Output
+## Sample Output
 	
 #Normal
 ![Alt Image text](/test_pics/normal.png?raw=true "Normal")
@@ -108,5 +106,12 @@ git commit -m "feat: added new stuff"
 git push YOUR_REPO_URL develop
 ```
 
+## Project Limitations
+- can run on only 3-4 devices at a time.
+- doesn't work well in bright background light.
+- performance varies from browser to browser: Works fast on Chrome and Firefox but is slow on Edge.
+
+
+# That's all folks!
+
 Made by: Sudeep Birudavolu
-</center>
