@@ -2,16 +2,15 @@
 
 # Face Liveness Detection (Anti-Spoofing) Web App
 
-
-### A Streamlit WebRTC web app that can identify whether a face comes from a real person or a fake person and prevents the system from giving false verification.
+A Streamlit WebRTC web app that can identify whether a face comes from a real person or a fake person and prevents the system from giving false verification.
 
 </center>
 
 ## Inspiration
 
+I would highly suggest all of you to take a look at this wonderful project which served as the inspiration for my project:
 https://github.com/jomariya23156/face-recognition-with-liveness-web-login
-
-I would highly suggest all of you to take a look at this wonderful project which served as the inspiration for my project. jomariya23156 (https://github.com/jomariya23156) has even incorporated face-recognition into his app (which I have omitted in my project).
+[jomariya23156] (https://github.com/jomariya23156) has even incorporated face-recognition into his app (which I have omitted in my project).
 
 ## Drawback
 	
@@ -82,13 +81,13 @@ https://docs.streamlit.io/knowledge-base/deploy/remote-start
 
 ## Sample Output
 	
-#Normal
+# Normal
 ![Alt Image text](/test_pics/normal.png?raw=true "Normal")
 
-#With picture
+# With picture
 ![Alt Image text](/test_pics/with_pic.jpeg?raw=true "With picture")
 
-#With video
+# With video
 ![Alt Image text](/test_pics/with_video.jpeg?raw=true "With video")
 
 
