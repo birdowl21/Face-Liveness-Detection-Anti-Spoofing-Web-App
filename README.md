@@ -3,7 +3,7 @@
 # Face Liveness Detection (Anti-Spoofing) Web App
 
 
-### A Streamlit WebRTC web app that determines if the person appearing in front of web cam is real and not a photo or a video of someone or something.
+### A Streamlit WebRTC web app that can identify whether a face comes from a real person or a fake person and prevents the system from giving false verification.
 
 </center>
 
@@ -11,9 +11,9 @@
 
 https://github.com/jomariya23156/face-recognition-with-liveness-web-login
 
-I would highly suggest all of you to take a look at this wonderful project which served as the inspiration for my project.jomariya23156 has also beautifully incorporated face-recognition into his app which has been omitted in my project.
+I would highly suggest all of you to take a look at this wonderful project which served as the inspiration for my project. jomariya23156 (https://github.com/jomariya23156) has even incorporated face-recognition into his app (which I have omitted in my project).
 
-# Drawback
+## Drawback
 	
 The drawback of the above mentioned project is that although it claims to be a web app it cannot be used in a server-client scenario as it lacks webrtc features.
 
@@ -38,7 +38,7 @@ Start developing locally.
 Fork the repository. then clone the repo locally by doing -
 
 ```sh
-git clone https://github.com/abhisheknaiidu/iiitdmj-gpa.git
+git clone https://github.com/birdowl21/Face-Liveness-Detection-Anti-Spoofing-Web-App.git
 ```
 
 ### Step 2: create a virtual environment and activate it. Note: I have used pip
@@ -52,7 +52,7 @@ python -m venv [env-name]
 ### Step 3: cd into the directory
 
 ```sh
-cd iiitdmj-gpa
+cd Face-Liveness-Detection-Anti-Spoofing-Web-App
 ```
 
 ### Step 4: install dependencies
