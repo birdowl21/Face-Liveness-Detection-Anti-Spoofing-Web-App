@@ -3,7 +3,7 @@
 # Face Liveness Detection (Anti-Spoofing) Web App
 
 
-### A Streamlit WebRTC web app that determines if the person appearing in front of web cam is real and not a photo or a video of someone/something.
+### A Streamlit WebRTC web app that determines if the person appearing in front of web cam is real and not a photo or a video of someone or something.
 
 </center>
 
@@ -24,7 +24,7 @@ https://blog.streamlit.io/how-to-build-the-streamlit-webrtc-component/
 
 </center>
 <hr>
-
+<center>
 ## ✨ Features
 
 - calculates real and fake ratios
@@ -57,20 +57,20 @@ python -m venv [env-name]
 cd iiitdmj-gpa
 ```
 
-# install dependencies
+### Step 4: install dependencies
 
 ```sh
 pip install -r requirements.txt
 ```
  
-# And you are good to go
+### And you are good to go
 ```sh
 streamlit run app.py
 ```
 You should now have the application running and accessible at http://localhost:8501.
 
 
-### Step 4: Deploy and enjoy!
+### Step 5: Deploy and enjoy!
 
 You could deploy the app to cloud platforms such as Streamlit-sharing and Heroku.
 
@@ -83,12 +83,15 @@ https://docs.streamlit.io/knowledge-base/deploy/remote-start
 
 
 ### Sample Output
-
+	
+#Normal
 ![Alt Image text](/test_pics/normal.png?raw=true "Normal")
 
+#With picture
 ![Alt Image text](/test_pics/with_pic.jpeg?raw=true "With picture")
 
-![Alt Image text](/test_pics/with_video.png?raw=true "With video")
+#With video
+![Alt Image text](/test_pics/with_video.jpeg?raw=true "With video")
 
 
 
@@ -106,3 +109,4 @@ git push YOUR_REPO_URL develop
 ```
 
 Made by: Sudeep Birudavolu
+</center>
