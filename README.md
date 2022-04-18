@@ -41,7 +41,7 @@ Fork the repository. then clone the repo locally by doing -
 git clone https://github.com/birdowl21/Face-Liveness-Detection-Anti-Spoofing-Web-App.git
 ```
 
-### Step 2: create a virtual environment and activate it. Note: I have used pip
+### Step 2: create a virtual environment and activate it. (note: I have used pip)
 
 ```sh
 pip install virtualenv
