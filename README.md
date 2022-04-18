@@ -13,7 +13,8 @@
 https://github.com/jomariya23156/face-recognition-with-liveness-web-login
 
 I would highly suggest all of you to take a look at this wonderful project which served as the inspiration for my project.jomariya23156 has also beautifully incorporated face-recognition into his app which has been omitted in my project.
-
+</center>
+<center>
 	<h2> Drawback </h2>
 	
 The drawback of the above mentioned project is that although it claims to be a web app it cannot be used in a server-client scenario as it lacks webrtc features.
