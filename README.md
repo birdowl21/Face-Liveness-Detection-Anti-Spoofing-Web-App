@@ -8,9 +8,8 @@ A Streamlit WebRTC web app that can identify whether a face comes from a real pe
 
 ## Inspiration
 
-I would highly suggest all of you to take a look at this wonderful project which served as the inspiration for my project:
-https://github.com/jomariya23156/face-recognition-with-liveness-web-login
-[jomariya23156] (https://github.com/jomariya23156) has even incorporated face-recognition into his app (which I have omitted in my project).
+<p>I would highly suggest all of you to take a look at this wonderful project which served as the inspiration for my project: https://github.com/jomariya23156/face-recognition-with-liveness-web-login
+[jomariya23156] (https://github.com/jomariya23156) has even incorporated face-recognition into his app (which I have omitted in my project).</p>
 
 ## Drawback
 	
