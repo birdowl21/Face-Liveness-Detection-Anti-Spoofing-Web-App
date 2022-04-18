@@ -82,13 +82,13 @@ https://docs.streamlit.io/knowledge-base/deploy/remote-start
 
 ## Sample Output
 	
-# Normal
+## Normal
 ![Alt Image text](/test_pics/normal.png?raw=true "Normal")
 
-# With picture
+## With picture
 ![Alt Image text](/test_pics/with_pic.jpeg?raw=true "With picture")
 
-# With video
+## With video
 ![Alt Image text](/test_pics/with_video.jpeg?raw=true "With video")
 
 
