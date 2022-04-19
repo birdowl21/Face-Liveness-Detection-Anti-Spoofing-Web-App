@@ -13,7 +13,7 @@ https://github.com/jomariya23156/face-recognition-with-liveness-web-login
 I would highly suggest all of you to take a look at this wonderful project which served as the inspiration for my project.
 <a href="https://github.com/jomariya23156" target="_blank" rel=”noreferrer”>jomariya23156</a> has even incorporated face-recognition into his app (which I have omitted in my project).
 
-## Drawback
+## Drawback of approach
 	
 The drawback of the above mentioned project is that although it claims to be a web app it cannot be used in a server-client scenario as it lacks webrtc features.
 
@@ -23,7 +23,7 @@ https://blog.streamlit.io/how-to-build-the-streamlit-webrtc-component/
 </center>
 <hr>
 
-## ✨ Features
+## ✨ App Features
 
 - calculates real and fake ratios
 - uses Streamlit's WebRTC features
