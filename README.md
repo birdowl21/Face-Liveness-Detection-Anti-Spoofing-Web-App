@@ -112,5 +112,3 @@ git push YOUR_REPO_URL develop
 
 
 # That's all folks!
-
-Made by: Sudeep Birudavolu
